@@ -1,2 +1,4 @@
 # cse360_helloworld
-CSE 360 github tutorial
+This repository is to serve as CSE360 GitHub tutorial.
+
+This is a change reflecting a commit done by Thomas Schafer of group Tu27.
